@@ -14,7 +14,6 @@
 - 💳 **Payment Gateway**: Razorpay
 - 🤖 **AI Integration**: AI Image Generation API (e.g. Replicate, Stability, etc.)
 
-
 ---
 
 ## 💡 Features
