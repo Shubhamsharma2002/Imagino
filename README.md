@@ -26,9 +26,6 @@
 - 🔒 **Secure Payments** – Razorpay integration with secure checkout  
 
 ---
-
-
-
 ## 🧪 Demo Access
 
 > You can try a few free image generations before signing up for premium access.
