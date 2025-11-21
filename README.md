@@ -1,6 +1,7 @@
 # 🧠✨ Imagino
 > **Imagino turns your prompts into stunning AI-generated visuals — instantly and effortlessly.**
 
+
 ![Imagino Banner](https://via.placeholder.com/1000x300?text=Imagino+AI+Image+Generator)
 
 ---
